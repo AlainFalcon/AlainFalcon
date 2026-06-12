@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlainFalcon
-- 👀 I’m interested in ...DeFi and NFT, Layer 2, oracles, exchanges, launchpads.
 - 🌱 I’m currently learning new investment channels 
-- 💞️ I’m looking to collaborate on ...funding ground-greaking technologies
+- 💞️ I’m looking to collaborate on ...funding ground-breaking technologies
 - 📫 How to reach me ... leave a message on Telegram  @alainfalcon
 
 <!---
